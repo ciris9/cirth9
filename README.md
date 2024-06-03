@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirth9)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cirth9)](https://github.com/anuraghazra/github-readme-stats)
 
 
