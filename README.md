@@ -10,7 +10,6 @@
 <!-- 统计卡片start -->
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cirth9&theme=dark" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirth9&theme=dark" />
 </div>
 <!-- 统计卡片end -->
