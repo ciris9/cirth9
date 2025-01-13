@@ -1,5 +1,5 @@
 ## It's just out of interest.👋
-"I love backend, but backend doesn't love me."
+
 <!-- Github连续打卡start -->
 
 <div align="center">
