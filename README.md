@@ -3,7 +3,7 @@
 <!-- Github连续打卡start -->
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ciris9&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ciris9&theme=dark&hide_border=true" />
 </div>
 <!-- Github连续打卡end -->
 <!-- 统计卡片start -->
